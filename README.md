@@ -43,6 +43,8 @@ Get your listings found on Etsy so your pins have strong destinations.
 - [Marmalead](https://marmalead.com) — Etsy keyword research and listing grading backed by search data.
 - [Alura](https://www.alura.io) — Etsy seller toolkit with keyword research and a listing helper.
 - [EtsyHunt](https://etsyhunt.com) — Product and keyword research across the Etsy marketplace.
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) — Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) — Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ## Scheduling & Analytics
 
